@@ -6,7 +6,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    font-family: 'poppins', 'Kaushan', cursive;
+    font-family: 'poppins', 'sail', cursive;
 
 }
 
@@ -126,11 +126,11 @@ nav {
     position: absolute;
     /* bottom: 23rem;
     left: 4rem;*/
-    font-size: 3.2rem;
-    font-family: 'kaushan', 'poppins';
+    font-size: 4.5rem;
+    font-family: 'sail', 'poppins';
     color: var(--color-btn);
     top: 30%;
-    left: 50%;
+    left: 48%;
     transform: translate(-50%, -50%);
 
 }
@@ -138,11 +138,12 @@ nav {
 
 .header_left p {
     position: absolute;
+    font-family: 'poppins';
     bottom: 18.5rem;
     font-size: 1.25rem;
     color: var(--color-btn);
-    top: 42%;
-    left: 50%;
+    top: 41%;
+    left: 49%;
     transform: translate(-50%, -50%);
 
 }
@@ -154,6 +155,7 @@ section {
     font-size: 1rem;
     padding: 0 2rem 0 4rem;
     margin: 0 0 2rem;
+    font-family: 'poppins';
 }
 
 .main__about {
@@ -210,8 +212,9 @@ section {
 
 .gallery h3 {
     color: var(--color-bg);
-    font-size: 2rem;
+    font-size: 3rem;
     padding-top: 2rem;
+    font-family: 'sail';
 }
 
 .gallery .sm-imgs img {
@@ -387,7 +390,7 @@ span .socials a {
             position: absolute;
 
             font-size: 2.7rem;
-            font-family: 'poppins';
+            font-family: 'sail';
             color: var(--color-btn);
             top: 25%;
             left: 41%;
@@ -423,7 +426,7 @@ span .socials a {
             display: grid;
             place-items: center;
             color: var(--color-btn);
-            font-family: 'poppins';
+            font-family: 'ubuntu', 'poppins';
             font-size: 1.2rem;
         }
 
