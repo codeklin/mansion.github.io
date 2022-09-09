@@ -6,7 +6,6 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    font-family: 'poppins', 'sail', cursive;
 
 }
 
@@ -399,6 +398,7 @@ span .socials a {
             background: rgba(0, 0, 0, 0.5);
             /* Black background with 0.5 opacity */
             color: #f1f1f1;
+            padding: 0.5rem 1rem 0.5rem;
 
         }
 
@@ -527,6 +527,7 @@ span .socials a {
             grid-template-columns: 1fr 1fr;
             padding: 2rem 0 0 3rem;
             margin: 0;
+            font-family: 'ubuntu', 'poppins';
 
 
         }
