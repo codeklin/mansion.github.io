@@ -6,6 +6,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    font-family: 'ubuntu', 'poppins';
 
 }
 
@@ -152,8 +153,8 @@ section {
     color: var(--color-btn);
     text-align: center;
     font-size: 1rem;
-    padding: 0 2rem 0 4rem;
-    margin: 0 0 2rem;
+    padding: 0 2rem 0 1rem;
+    margin: 0;
     font-family: 'poppins';
 }
 
@@ -165,7 +166,7 @@ section {
     color: rgb(102, 49, 0);
     background-color: var(--color-bg);
     gap: 3rem;
-    padding: 3rem;
+    padding: 3rem 3rem 3rem 0rem;
 }
 
 .icon_side h4 {
