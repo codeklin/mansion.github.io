@@ -154,7 +154,7 @@ section {
     text-align: center;
     font-size: 1rem;
     padding: 0 2rem 0 1rem;
-    margin: 0;
+    margin: 0 3rem;
     font-family: 'poppins';
 }
 
@@ -166,7 +166,7 @@ section {
     color: rgb(102, 49, 0);
     background-color: var(--color-bg);
     gap: 3rem;
-    padding: 3rem 3rem 3rem 0rem;
+    padding: 5rem 3rem 3rem 2rem;
 }
 
 .icon_side h4 {
